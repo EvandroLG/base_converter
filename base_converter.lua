@@ -46,7 +46,7 @@ return {
 
     while i >=1 do
       _n = tonumber(reverse[i])
-      result = result + (_n * math.pow(base, i))
+      result = result + (_n * math.pow(base, i-1))
       i = i - 1
     end
 
