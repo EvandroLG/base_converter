@@ -1,4 +1,4 @@
-# Baser Converter
+# Base Converter
 A simple Lua library to convert from decimal to any base or from any to decimal.
 
 # Methods
